@@ -1,0 +1,7 @@
+db.sqlite3
+debug.log
+virtualenv/*
+chromedriver.exe
+virtualenv
+__pycache__
+*.pyc

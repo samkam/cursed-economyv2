@@ -2,6 +2,7 @@
 
 A "would you rather" website where users can submit their own ideas into the deck.
 
+Work in Progress.
 
 Built using Django and Selenium. Using TDD methodology. 
 
